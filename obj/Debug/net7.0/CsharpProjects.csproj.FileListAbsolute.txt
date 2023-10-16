@@ -1,0 +1,14 @@
+C:\Users\public\desktop\CsharpProjects\bin\Debug\net7.0\CsharpProjects.exe
+C:\Users\public\desktop\CsharpProjects\bin\Debug\net7.0\CsharpProjects.deps.json
+C:\Users\public\desktop\CsharpProjects\bin\Debug\net7.0\CsharpProjects.runtimeconfig.json
+C:\Users\public\desktop\CsharpProjects\bin\Debug\net7.0\CsharpProjects.dll
+C:\Users\public\desktop\CsharpProjects\bin\Debug\net7.0\CsharpProjects.pdb
+C:\Users\public\desktop\CsharpProjects\obj\Debug\net7.0\CsharpProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\public\desktop\CsharpProjects\obj\Debug\net7.0\CsharpProjects.AssemblyInfoInputs.cache
+C:\Users\public\desktop\CsharpProjects\obj\Debug\net7.0\CsharpProjects.AssemblyInfo.cs
+C:\Users\public\desktop\CsharpProjects\obj\Debug\net7.0\CsharpProjects.csproj.CoreCompileInputs.cache
+C:\Users\public\desktop\CsharpProjects\obj\Debug\net7.0\CsharpProjects.dll
+C:\Users\public\desktop\CsharpProjects\obj\Debug\net7.0\refint\CsharpProjects.dll
+C:\Users\public\desktop\CsharpProjects\obj\Debug\net7.0\CsharpProjects.pdb
+C:\Users\public\desktop\CsharpProjects\obj\Debug\net7.0\CsharpProjects.genruntimeconfig.cache
+C:\Users\public\desktop\CsharpProjects\obj\Debug\net7.0\ref\CsharpProjects.dll
